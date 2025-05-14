@@ -6,6 +6,7 @@ import ProductCarousel from "./ProductCarousel";
 import ProductGrid from "./ProductGrid";
 import ShoppingCartComponent from "./ShoppingCart";
 import { motion, AnimatePresence } from "framer-motion";
+import ThemeToggle from "./ThemeToggle";
 
 const Home = () => {
   const [isCartOpen, setIsCartOpen] = useState(false);
@@ -111,6 +112,8 @@ const Home = () => {
                 className="w-[200px] lg:w-[300px] pl-8"
               />
             </div>
+
+            <ThemeToggle />
 
             <Button variant="ghost" size="icon">
               <User className="h-5 w-5" />
