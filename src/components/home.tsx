@@ -466,7 +466,7 @@ const Home = () => {
           </div>
           <div className="border-t mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-              © 2023 ElectroShop. All rights reserved.
+              © 2025 eduuShop. All rights reserved.
             </p>
             <div className="flex items-center gap-4">
               <a
