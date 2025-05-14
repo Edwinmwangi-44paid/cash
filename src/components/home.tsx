@@ -78,7 +78,7 @@ const Home = () => {
               <span className="sr-only">Toggle menu</span>
             </Button>
             <a href="/" className="flex items-center gap-2">
-              <span className="text-xl font-bold">ElectroShop</span>
+              <span className="text-xl font-bold">EduuShop</span>
             </a>
           </div>
 
@@ -346,7 +346,7 @@ const Home = () => {
         <div className="container px-4 py-8 md:px-6 md:py-12">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-lg font-semibold mb-4">ElectroShop</h3>
+              <h3 className="text-lg font-semibold mb-4">EduuShop</h3>
               <p className="text-sm text-muted-foreground mb-4">
                 Your one-stop destination for the latest electronics and
                 gadgets.
